@@ -1,2 +1,2 @@
-# Pyton_Stepik_course
-Pyton coding course
+# Python_Stepik_course
+Python coding course
